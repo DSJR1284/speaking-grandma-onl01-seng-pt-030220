@@ -9,10 +9,9 @@ def speak_to_grandma(phrase)
     print "I LOVE YOU TOO PUMPKIN!"
   else if phrase == phrase.uppercase
     print ="NO, NOT SINCE 1938!"
-  if phrase == "i love you grandma"== phrase 
-    print ="HUH?! SPEAK UP, SONNY!"
+  else 
+    print answer 
   end
-end 
 end 
   
     
