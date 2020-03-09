@@ -4,10 +4,10 @@
 #Output grandma response speak , 1938,i love you
 
 def speak_to_grandma(phrase)
- 
-  if phrase == "i love you grandma!".uppercase
-    print ="I LOVE YOU TOO PUMPKIN!"
-  else if phrase == "i love you grandma!".uppercase
+ answer = "HUH?! SPEAK UP SONNY!"
+  if phrase == "I LOVE YOU YOU GRANDMA!"
+    print "I LOVE YOU TOO PUMPKIN!"
+  else if phrase == phrase.uppercase
     print ="NO, NOT SINCE 1938!"
   if phrase == "i love you grandma"== phrase 
     print ="HUH?! SPEAK UP, SONNY!"
